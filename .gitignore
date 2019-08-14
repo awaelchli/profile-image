@@ -29,3 +29,6 @@ Java/.settings
 
 # PyCharm
 Python/.idea
+
+# Project folders
+Python/animation
